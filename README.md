@@ -8,6 +8,14 @@ This project predicts employee salaries using machine learning models based on f
 - The pre-trained model, based on **scikit-learn**, is used for making predictions.
 - The app allows users to input their details and receive a predicted salary.
 
+## Research Questions:
+1. **Which job titles offer the highest salaries for specific levels of experience?**  
+
+2. **Do salary differences exist based on gender for individuals with the same job titles and experience levels?**  
+
+3. **What is the salary trend for different job titles according to gender?**  
+   
+
 ## Files Included
 1. **New_salary_app.ipynb**: Jupyter notebook containing the implementation of the salary prediction model, data exploration, and pre-processing steps.
 2. **Salary_data.csv**: The dataset used for training the model, containing columns such as **Age**, **Gender**, **Education Level**, **Job Title**, **Years of Experience**, and **Salary**.
