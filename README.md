@@ -8,7 +8,7 @@ This project predicts employee salaries using machine learning models based on f
 - The pre-trained model, based on **scikit-learn**, is used for making predictions.
 - The app allows users to input their details and receive a predicted salary.
 
-## Research Questions:
+## Business Questions:
 1. **Which job titles offer the highest salaries for specific levels of experience?**  
 
 2. **Do salary differences exist based on gender for individuals with the same job titles and experience levels?**  
